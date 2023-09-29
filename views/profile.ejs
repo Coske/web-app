@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Profile</title>
+        <link rel="stylesheet" type="text/css" href="../styles/style.css" />
+    </head>
+    <body>
+        <header>
+            <nav>
+                <ul>
+                    <li><a href="/">Cous's Inn</a></li>
+                    <li><a href="/menu">Menu</a></li>
+                    <li><a href="/about">About</a></li>
+                    <li><a href="/cart">🛒</a></li>
+                    <li><a href="/profile">Profile</a></li>
+                </ul>
+            </nav>
+        </header>
+        <div class="profile-container">
+            <h2>Welcome, <%= user.name %>!</h2>
+            <p>Email: <%= user.email %></p>
+            <p>Phone Number: <%= user.phoneNumber %></p>
+            <p>Address: <%= user.address %></p>
+            <p><a href="/users/logout">Logout</a></p>
+            <form method="POST" action="/profile/delete">
+                <button id="delete-acc-btn" type="submit">
+                    Delete Account
+                </button>
+            </form>
+        </div>
+    </body>
+</html>

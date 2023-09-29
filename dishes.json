@@ -1,0 +1,311 @@
+{
+    "dishes": {
+        "pizza": [
+            {
+                "name": "Margherita Pizza",
+                "price": 10.99,
+                "image": "../images/margherita_pizza.jpg",
+                "description": "Classic pizza topped with tomato sauce, mozzarella cheese, fresh basil leaves, and a drizzle of olive oil.",
+                "calories": 350,
+                "protein": 12,
+                "sugar": 2,
+                "fats": 10,
+                "salt": 1
+            },
+            {
+                "name": "Pepperoni Pizza",
+                "price": 12.99,
+                "image": "../images/pepperoni_pizza.jpg",
+                "description": "Delicious pizza topped with tomato sauce, mozzarella cheese, and slices of spicy pepperoni.",
+                "calories": 500,
+                "protein": 15,
+                "sugar": 3,
+                "fats": 12,
+                "salt": 1.5
+            },
+            {
+                "name": "Hawaiian Pizza",
+                "price": 11.99,
+                "image": "../images/hawaiian_pizza.jpg",
+                "description": "Savory pizza topped with tomato sauce, mozzarella cheese, ham, pineapple chunks, and a touch of oregano.",
+                "calories": 370,
+                "protein": 14,
+                "sugar": 5,
+                "fats": 11,
+                "salt": 1.2
+            },
+            {
+                "name": "Supreme Pizza",
+                "price": 14.49,
+                "image": "../images/supreme_pizza.jpg",
+                "description": "Loaded pizza topped with tomato sauce, mozzarella cheese, pepperoni, sausage, bell peppers, onions, and black olives.",
+                "calories": 520,
+                "protein": 16,
+                "sugar": 4,
+                "fats": 13,
+                "salt": 1.3
+            },
+            {
+                "name": "Mushroom and Truffle Pizza",
+                "price": 15.99,
+                "image": "../images/truffle_pizza.jpg",
+                "description": "Indulgent pizza featuring a blend of wild mushrooms, truffle oil, mozzarella cheese, and a sprinkle of Parmesan.",
+                "calories": 380,
+                "protein": 18,
+                "sugar": 2,
+                "fats": 14,
+                "salt": 1.1
+            },
+            {
+                "name": "BBQ Chicken Pizza",
+                "price": 13.99,
+                "image": "../images/bbq_chicken_pizza.jpg",
+                "description": "Tangy barbecue sauce base topped with diced chicken, red onions, mozzarella cheese, and cilantro.",
+                "calories": 370,
+                "protein": 20,
+                "sugar": 7,
+                "fats": 11,
+                "salt": 1.4
+            }
+        ],
+        "pasta": [
+            {
+                "name": "Lobster Ravioli",
+                "price": 18.99,
+                "image": "../images/lobster_ravioli.jpg",
+                "description": "Delicate ravioli stuffed with succulent lobster meat, served with a creamy tomato and brandy sauce.",
+                "calories": 480,
+                "protein": 22,
+                "sugar": 3,
+                "fats": 25,
+                "salt": 2.5
+            },
+            {
+                "name": "Penne alla Vodka",
+                "price": 12.49,
+                "image": "../images/penne_vodka.jpg",
+                "description": "Penne pasta tossed in a creamy vodka sauce made with tomatoes, heavy cream, and a touch of vodka.",
+                "calories": 420,
+                "protein": 12,
+                "sugar": 5,
+                "fats": 18,
+                "salt": 1.8
+            },
+            {
+                "name": "Spaghetti Bolognese",
+                "price": 11.99,
+                "image": "../images/spaghetti_bolognese.jpg",
+                "description": "Classic Italian dish featuring spaghetti pasta served with a rich and hearty meat sauce.",
+                "calories": 550,
+                "protein": 20,
+                "sugar": 6,
+                "fats": 22,
+                "salt": 2.0
+            },
+            {
+                "name": "Seafood Linguine",
+                "price": 16.99,
+                "image": "../images/seafood_linguine.jpg",
+                "description": "Linguine pasta served with a medley of fresh seafood, including shrimp, mussels, and clams, in a garlic white wine sauce.",
+                "calories": 520,
+                "protein": 24,
+                "sugar": 3,
+                "fats": 20,
+                "salt": 2.3
+            }
+        ],
+        "barbecue": [
+            {
+                "name": "Pulled Pork Sandwich",
+                "price": 9.99,
+                "image": "../images/pulled_pork_sandwich.jpg",
+                "description": "Tender pulled pork piled high on a soft bun, served with coleslaw and your choice of barbecue sauce.",
+                "calories": 450,
+                "protein": 25,
+                "sugar": 8,
+                "fats": 15,
+                "salt": 1.4
+            },
+            {
+                "name": "Beef Brisket",
+                "price": 17.49,
+                "image": "../images/beef_brisket.jpg",
+                "description": "Slow-smoked beef brisket rubbed with spices, sliced thin, and served with pickles and barbecue sauce.",
+                "calories": 550,
+                "protein": 30,
+                "sugar": 5,
+                "fats": 28,
+                "salt": 1.8
+            },
+            {
+                "name": "Grilled BBQ Corn",
+                "price": 4.99,
+                "image": "../images/grilled_corn.jpg",
+                "description": "Fresh corn on the cob grilled to perfection and coated with a savory barbecue glaze.",
+                "calories": 180,
+                "protein": 4,
+                "sugar": 5,
+                "fats": 8,
+                "salt": 0.9
+            },
+            {
+                "name": "BBQ Chicken Wings",
+                "price": 11.99,
+                "image": "../images/bbq_chicken_wings.jpg",
+                "description": "Crispy chicken wings coated in a smoky barbecue sauce, served with celery sticks and ranch dressing.",
+                "calories": 380,
+                "protein": 22,
+                "sugar": 10,
+                "fats": 25,
+                "salt": 1.2
+            },
+            {
+                "name": "Smoked Sausages",
+                "price": 10.49,
+                "image": "../images/smoked_sausages.jpg",
+                "description": "Juicy smoked sausages served with grilled onions and peppers, and a side of tangy barbecue sauce.",
+                "calories": 320,
+                "protein": 18,
+                "sugar": 4,
+                "fats": 25,
+                "salt": 1.5
+            }
+        ],
+        "fried foods": [
+            {
+                "name": "Chicken Nuggets",
+                "price": 8.99,
+                "image": "../images/chicken_nuggets.jpg",
+                "description": "Crispy and golden chicken nuggets served with various dipping sauces.",
+                "calories": 350,
+                "protein": 20,
+                "sugar": 1,
+                "fats": 18,
+                "salt": 1.2
+            },
+            {
+                "name": "Onion Rings",
+                "price": 6.49,
+                "image": "../images/onion_rings.jpg",
+                "description": "Battered and deep-fried onion rings, a classic side dish or snack.",
+                "calories": 280,
+                "protein": 3,
+                "sugar": 5,
+                "fats": 15,
+                "salt": 1.5
+            },
+            {
+                "name": "Fried Calamari",
+                "price": 9.99,
+                "image": "../images/fried_calamari.jpg",
+                "description": "Tender calamari rings coated in a crispy batter and served with marinara sauce and lemon wedges.",
+                "calories": 350,
+                "protein": 20,
+                "sugar": 2,
+                "fats": 18,
+                "salt": 1.2
+            },
+            {
+                "name": "Fried Mozzarella Sticks",
+                "price": 6.49,
+                "image": "../images/mozzarella_sticks.jpg",
+                "description": "Melted mozzarella cheese sticks coated in breadcrumbs and deep-fried until golden and gooey inside.",
+                "calories": 280,
+                "protein": 12,
+                "sugar": 3,
+                "fats": 18,
+                "salt": 1.0
+            },
+            {
+                "name": "Fries",
+                "price": 5.99,
+                "image": "../images/fries.jpg",
+                "description": "Dill pickle slices coated in a seasoned breading and fried until crispy, served with a tangy dipping sauce.",
+                "calories": 400,
+                "protein": 3,
+                "sugar": 2,
+                "fats": 15,
+                "salt": 1.4
+            }
+        ],
+        "burgers": [
+            {
+                "name": "Classic Cheeseburger",
+                "price": 9.99,
+                "image": "../images/cheeseburger.jpg",
+                "description": "Juicy beef patty topped with melted cheese, lettuce, tomato, onion, and a special sauce, served in a bun.",
+                "calories": 550,
+                "protein": 25,
+                "sugar": 7,
+                "fats": 30,
+                "salt": 1.7
+            },
+            {
+                "name": "Veggie Burger",
+                "price": 10.49,
+                "image": "../images/veggie_burger.jpg",
+                "description": "Plant-based patty made from vegetables, grains, and legumes, served with fresh toppings and condiments.",
+                "calories": 400,
+                "protein": 15,
+                "sugar": 5,
+                "fats": 20,
+                "salt": 1.5
+            },
+            {
+                "name": "Bacon Cheeseburger",
+                "price": 10.99,
+                "image": "../images/bacon_cheeseburger.jpg",
+                "description": "Juicy beef patty topped with crispy bacon, melted cheddar cheese, lettuce, tomato, and mayo.",
+                "calories": 600,
+                "protein": 28,
+                "sugar": 6,
+                "fats": 35,
+                "salt": 1.9
+            },
+            {
+                "name": "Mushroom Swiss Burger",
+                "price": 11.49,
+                "image": "../images/mushroom_swiss_burger.jpg",
+                "description": "Beef patty topped with sautéed mushrooms, melted Swiss cheese, lettuce, and creamy aioli.",
+                "calories": 550,
+                "protein": 26,
+                "sugar": 4,
+                "fats": 30,
+                "salt": 1.7
+            },
+            {
+                "name": "Double Bacon BBQ Burger",
+                "price": 12.99,
+                "image": "../images/double_bacon_bbq_burger.jpg",
+                "description": "Double beef patties, crispy bacon, cheddar cheese, onion rings, and barbecue sauce.",
+                "calories": 800,
+                "protein": 42,
+                "sugar": 8,
+                "fats": 45,
+                "salt": 2.2
+            },
+            {
+                "name": "Jalapeño Burger",
+                "price": 9.99,
+                "image": "../images/jalapeno_burger.jpg",
+                "description": "Spicy burger topped with sliced jalapeños, pepper jack cheese, lettuce, and chipotle mayo.",
+                "calories": 520,
+                "protein": 18,
+                "sugar": 3,
+                "fats": 28,
+                "salt": 1.6
+            },
+            {
+                "name": "Mexican Chicken burger",
+                "price": 12.99,
+                "image": "../images/mexican_chicken_burger.jpg",
+                "description": "Mexican chicken burger topped with sliced caramelized onions, pico de gallo, cotija cheese, tortilla chips and a spicy lime and sour cream mayo",
+                "calories": 420,
+                "protein": 25,
+                "sugar": 6,
+                "fats": 28,
+                "salt": 1.8
+            }
+        ]
+    }
+}
